@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0098/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大宗地玄文本論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1669.xml
+    old_id: T32n1669
+hash: sha256:e175392ac6eadef6ff770d58f2e318adb6f31c112e136ee9418c8cd5adf77043

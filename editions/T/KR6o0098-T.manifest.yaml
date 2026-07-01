@@ -1,0 +1,666 @@
+canonical_identifier: bkk:krp/KR6o0098/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0098/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大宗地玄文本論
+  identifiers:
+    krp: KR6o0098
+    cbeta: T32n1669
+    cbeta_old_id: T32n1669
+    authorityid: CA0000717
+    json_key: T1669
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1669.xml
+    old_id: T32n1669
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0098_000-T.yaml, hash: 'sha256:e175392ac6eadef6ff770d58f2e318adb6f31c112e136ee9418c8cd5adf77043'}
+  - {seq: 1, filename: KR6o0098_001-T.yaml, hash: 'sha256:c36c15dd433031f008ff1273aa9e039a5dc455a0c17809a267c28327b4b52a22'}
+  - {seq: 2, filename: KR6o0098_002-T.yaml, hash: 'sha256:914ba178a277da3e883061b765270b16051ebea502b9ec7e1edff9a853c8139d'}
+  - {seq: 3, filename: KR6o0098_003-T.yaml, hash: 'sha256:715c8eec57699263c1f46d074d5d33b557200ed07467db607220b7b94f8f9b9f'}
+  - {seq: 4, filename: KR6o0098_004-T.yaml, hash: 'sha256:7d273615cf75ca525159ccfa05e24fb56c14e3e373f3b998f3b7146686c67273'}
+  - {seq: 5, filename: KR6o0098_005-T.yaml, hash: 'sha256:e43d83d6b37293120c3c5fbbc0a05c08f23adbc814c6cbcc3d371325d75ad92a'}
+  - {seq: 6, filename: KR6o0098_006-T.yaml, hash: 'sha256:fce7e713dd30b225b4e069575caf2ca8b5d2b01c2c19ea08614fd6e1848dc580'}
+  - {seq: 7, filename: KR6o0098_007-T.yaml, hash: 'sha256:f55895600ecb346d45bb64d0c2e0c0a76f83872f3567199c20a2e20e2c86462f'}
+  - {seq: 8, filename: KR6o0098_008-T.yaml, hash: 'sha256:02b0952d7db6d5db58340226e4268845afe50b5f02ee3854071beaa5dc9a4474'}
+  - {seq: 9, filename: KR6o0098_009-T.yaml, hash: 'sha256:bd8d0176f13840f25b835f4928a07001d64b50f245a5cacf7ae50c6c8de854b4'}
+  - {seq: 10, filename: KR6o0098_010-T.yaml, hash: 'sha256:ebe8abf7a5ff98e992a939d9f8c81fd96017ea90796c8e5d11cbf862d929b8e6'}
+  - {seq: 11, filename: KR6o0098_011-T.yaml, hash: 'sha256:47d7dd2b3b3942adfb80365b1f11591ec2ec62cfa52336ee818b330251c8d25b'}
+  - {seq: 12, filename: KR6o0098_012-T.yaml, hash: 'sha256:35d71acc5caa464bca3896fd51d0062c33f666c6ec2c6fc787ba09cfabbbc141'}
+  - {seq: 13, filename: KR6o0098_013-T.yaml, hash: 'sha256:5b1d9d337fefad94747749cf78d133e76ab57ecc5c8a147301788546277e586a'}
+  - {seq: 14, filename: KR6o0098_014-T.yaml, hash: 'sha256:5a5426c5d5ba909c1100ef9bc6e3011d24e2eec64fd13ee8d2794236e761316c'}
+  - {seq: 15, filename: KR6o0098_015-T.yaml, hash: 'sha256:1f80155ee62fcf82cfff5fd4212ed663ec27f6d8eec7c01ecbc986f7982e043e'}
+  - {seq: 16, filename: KR6o0098_016-T.yaml, hash: 'sha256:0f54e9f1b8c1bb48234acdefd130a005512b9e3a913a3836468d481409971cf1'}
+  - {seq: 17, filename: KR6o0098_017-T.yaml, hash: 'sha256:fee6fd55e248ea322a46dbd8267ada1ee1a603a16b759061c4463a934bd4c885'}
+  - {seq: 18, filename: KR6o0098_018-T.yaml, hash: 'sha256:48c2ca6d0946762633123965f9b84a1a2441983c64fd52a9870c998f49f802df'}
+  - {seq: 19, filename: KR6o0098_019-T.yaml, hash: 'sha256:ea56d46a72fdcbd8b1a012be500b4d520b03d3c547907d040fba021f34fbadb5'}
+  - {seq: 20, filename: KR6o0098_020-T.yaml, hash: 'sha256:66816df2a0db97e69693d1d5f8f999f556bf133f5411c58f2c4073265414a8ef'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0098_000-T.markers.yaml, hash: 'sha256:aeb114e715e4ad3684dfe3573cacb96c4d7ba089212cff884a6305d90cf7e52c'}
+  - {seq: 1, role: markers, filename: assets/KR6o0098_001-T.markers.yaml, hash: 'sha256:852bb7825615f5b64de32d144bf339d399b53abcaf80835bc675fc4290ecf62d'}
+  - {seq: 2, role: markers, filename: assets/KR6o0098_002-T.markers.yaml, hash: 'sha256:4b7b8acec890a14f2267c2887193421d2164100572a5bc0189efc22b0b0622d3'}
+  - {seq: 3, role: markers, filename: assets/KR6o0098_003-T.markers.yaml, hash: 'sha256:dd605f1198d073a9103a599e6b90817e411d6fbd70c7e7a88c7590dc8df24a6c'}
+  - {seq: 4, role: markers, filename: assets/KR6o0098_004-T.markers.yaml, hash: 'sha256:4099b5d15276afb46d4fff26e45034ccbc3ce95d3fc5c02504cc13f27f2788c7'}
+  - {seq: 5, role: markers, filename: assets/KR6o0098_005-T.markers.yaml, hash: 'sha256:93b1893ec78322e5340e7d0f274db814e136b48bae51212f017422b15214812b'}
+  - {seq: 6, role: markers, filename: assets/KR6o0098_006-T.markers.yaml, hash: 'sha256:257355edc6e212559922cb92677601d0c4921e586af0234c00c8e383c07eeb34'}
+  - {seq: 7, role: markers, filename: assets/KR6o0098_007-T.markers.yaml, hash: 'sha256:e3461b922593cc409247d8dab054ad5b26bf40ee0ab40b25b4113690c6948b17'}
+  - {seq: 8, role: markers, filename: assets/KR6o0098_008-T.markers.yaml, hash: 'sha256:6615043bd2191de9f4f640a8b31a8a88e576e9a9d03b10e50646b181c5634e29'}
+  - {seq: 9, role: markers, filename: assets/KR6o0098_009-T.markers.yaml, hash: 'sha256:8f031a7668799e7a19f6c5d4d0d3f8cc600c72c6020917caad1c3b266c06ee00'}
+  - {seq: 10, role: markers, filename: assets/KR6o0098_010-T.markers.yaml, hash: 'sha256:d5ac5fa49005034f14499e80a73178b17f0b8457730f4c84f18920ef19e9dca8'}
+  - {seq: 11, role: markers, filename: assets/KR6o0098_011-T.markers.yaml, hash: 'sha256:b0c04fc2aeb9edf53b8b8c35cfdc756007b7a286829dd3154da768d4771a017b'}
+  - {seq: 12, role: markers, filename: assets/KR6o0098_012-T.markers.yaml, hash: 'sha256:379b1cf439877e1e3d142e8372680d4c846533ffa4a826e627f0aa02ff292bba'}
+  - {seq: 13, role: markers, filename: assets/KR6o0098_013-T.markers.yaml, hash: 'sha256:dcf45b153be3337708bf98af75bd67426a139e8de2fec11c5f1de41ae20b9d9d'}
+  - {seq: 14, role: markers, filename: assets/KR6o0098_014-T.markers.yaml, hash: 'sha256:21882e3b60514aeed59c2ddc18ca0f001a0da14efdc6b8d11a29d757f8af423b'}
+  - {seq: 15, role: markers, filename: assets/KR6o0098_015-T.markers.yaml, hash: 'sha256:ef8405786c7a677f14dbc1f4f8d9b70c7fe6ddd1eb0e92d5d0c92b5bee7dc48d'}
+  - {seq: 16, role: markers, filename: assets/KR6o0098_016-T.markers.yaml, hash: 'sha256:ca76cd73ffe9c343b0c8e6eb7755c446ab7c62dda23046d97026ed73984174e2'}
+  - {seq: 17, role: markers, filename: assets/KR6o0098_017-T.markers.yaml, hash: 'sha256:5c25dc6c834cd82310a5ab26c35a50d4f7dfdea398ae80cd3a50f0af230c1051'}
+  - {seq: 18, role: markers, filename: assets/KR6o0098_018-T.markers.yaml, hash: 'sha256:503ee41c8b9e1ca2aa6ecabfff11d5ae83952b7e64c5f479d1537000e2d934d4'}
+  - {seq: 19, role: markers, filename: assets/KR6o0098_019-T.markers.yaml, hash: 'sha256:946296dd13a88f0d3836ec685e0622d9c1bee3b82ea60d483f537ca2213add82'}
+  - {seq: 20, role: markers, filename: assets/KR6o0098_020-T.markers.yaml, hash: 'sha256:96defbae7d1d572f4335cd813303bc5ad0d4afa86f39e12c8c7236905423a0fc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0098_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3140
+  label: 大宗地玄文本論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0098_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 歸依德處無邊大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0098_T_001-mulu-2
+    span:
+    - body
+    - 2489
+    - 2489
+  label: 2 歸依德處因緣大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0098_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 2285
+  label: 大宗地玄文本論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0098_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 3 一種金剛道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0098_T_002-mulu-2
+    span:
+    - body
+    - 2039
+    - 2039
+  label: 4 金剛寶輪山王大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0098_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 1508
+  label: 大宗地玄文本論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0098_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 5 金輪山王道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0098_T_003-mulu-2
+    span:
+    - body
+    - 968
+    - 968
+  label: 6 獨一山王摩訶山王大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0098_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 3875
+  label: 大宗地玄文本論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0098_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 7 大海部藏道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0098_T_004-mulu-2
+    span:
+    - body
+    - 3007
+    - 3007
+  label: 8 深里出興地藏大龍王大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0098_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 1767
+  label: 大宗地玄文本論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0098_T_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 9 深里出興地藏大龍王道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0098_T_005-mulu-2
+    span:
+    - body
+    - 1237
+    - 1237
+  label: 10 大龍王重重廣海無盡大藏大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6o0098_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 2809
+  label: 大宗地玄文本論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6o0098_T_006-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 11 無盡無窮塵塵數量道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6o0098_T_006-mulu-2
+    span:
+    - body
+    - 2546
+    - 2546
+  label: 12 不可思議不可稱量俱俱微塵本大山王大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6o0098_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 1293
+  label: 大宗地玄文本論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6o0098_T_007-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 13 不可思議俱俱微塵一切山王道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6o0098_T_007-mulu-2
+    span:
+    - body
+    - 790
+    - 790
+  label: 14 一切虛空一切微塵數量高王大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6o0098_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 1496
+  label: 大宗地玄文本論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6o0098_T_008-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 15 獨地非亂一定一定道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6o0098_T_008-mulu-2
+    span:
+    - body
+    - 952
+    - 952
+  label: 16 獨地獨天一種廣大無二山王大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6o0098_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 581
+  label: 大宗地玄文本論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6o0098_T_009-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 17 獨一無二山王自在道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6o0098_T_009-mulu-2
+    span:
+    - body
+    - 369
+    - 369
+  label: 18 摩訶無二山王最勝高頂一地大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6o0098_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 1295
+  label: 大宗地玄文本論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6o0098_T_010-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 19 𭺔𣅍陀尸梵迦諾道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6o0098_T_010-mulu-2
+    span:
+    - body
+    - 940
+    - 940
+  label: 20 𭺔𣅍陀尸梵迦諾本王本地大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6o0098_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 584
+  label: 大宗地玄文本論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6o0098_T_011-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 21 𭺕尸梵諾本王道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6o0098_T_011-mulu-2
+    span:
+    - body
+    - 280
+    - 280
+  label: 22 摩訶𭺕尸梵諾母原主天王大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6o0098_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 786
+  label: 大宗地玄文本論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6o0098_T_012-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 23 一種功德純純無雜大圓滿地道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6o0098_T_012-mulu-2
+    span:
+    - body
+    - 504
+    - 504
+  label: 24 一種功德摩訶本地明白離惡品藏大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6o0098_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 769
+  label: 大宗地玄文本論卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6o0098_T_013-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 25 摩訶本地具足品藏非患道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6o0098_T_013-mulu-2
+    span:
+    - body
+    - 546
+    - 546
+  label: 26 摩訶寶輪王廣大圓滿無上地地大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6o0098_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 1166
+  label: 大宗地玄文本論卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6o0098_T_014-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 27 繫縛地地品類不吉祥道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6o0098_T_014-mulu-2
+    span:
+    - body
+    - 740
+    - 740
+  label: 28 繫縛地地自然本王摩訶𦅂品大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6o0098_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 486
+  label: 大宗地玄文本論卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6o0098_T_015-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 29 自然本王廣大轉地無障無礙俱行道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6o0098_T_015-mulu-2
+    span:
+    - body
+    - 260
+    - 260
+  label: 30 最極廣大俱行山王無盡海海大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6o0098_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 1251
+  label: 大宗地玄文本論卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6o0098_T_016-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 31 出離繫縛地清白解脫道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6o0098_T_016-mulu-2
+    span:
+    - body
+    - 1014
+    - 1014
+  label: 32 解脫山王根本地地無礙自在大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6o0098_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 384
+  label: 大宗地玄文本論卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6o0098_T_017-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 33 解脫山王大道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6o0098_T_017-mulu-2
+    span:
+    - body
+    - 203
+    - 203
+  label: 34 廣大無盡解脫海海摩訶山王大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6o0098_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 681
+  label: 大宗地玄文本論卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6o0098_T_018-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 35 摩訶空塵海藏王道路大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6o0098_T_018-mulu-2
+    span:
+    - body
+    - 435
+    - 435
+  label: 36 大不可思議重重不可稱量阿說本王大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6o0098_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 1682
+  label: 大宗地玄文本論卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6o0098_T_019-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 37 校量功德讚歎信行現示利益大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6o0098_T_019-mulu-2
+    span:
+    - body
+    - 1097
+    - 1097
+  label: 38 校量過患呵責誹謗現示罪業大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6o0098_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 1363
+  label: 大宗地玄文本論卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6o0098_T_020-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 39 現示本因決定證成除疑生信大決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6o0098_T_020-mulu-2
+    span:
+    - body
+    - 1251
+    - 1251
+  label: 40 勸持流通發大願海大決擇分
+  type: mulu
+  level: 1
+hash: sha256:05e404eeebb3848bd579050878df3b1ad51c38255377c5e4b61d76b05abb6170
